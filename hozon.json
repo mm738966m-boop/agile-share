@@ -1,0 +1,13 @@
+{
+  "_説明": "agile-share のページのうち、樫野さん・宮野さんに見せたもの(shared:true)を、3人の共有フォルダ AGILE_共有 にPDFで保存する。publish.sh が毎回動かす。点数の集計はこのフォルダを毎月読む",
+  "pages": [
+    {"out": "teireikai/1022/index.html", "folder": "03_議事録・会議資料/2026年10月度分", "name": "AGILE定例会レジュメ_20261022", "shared": true},
+    {"out": "hp/index.html", "folder": "06_ブランド・名刺", "name": "AGILEホームページ_新しくした所_261025", "shared": true},
+    {"out": "teireikai/1028/index.html", "folder": "03_議事録・会議資料/2026年10月度分", "name": "20261028_AGILE定例会まとめ（録画から）", "prefix": false, "shared": true},
+    {"out": "teireikai/tejun/index.html", "folder": "00_はじめに（マニュアル・ルール）", "name": "定例会のまとめができるまで_261029", "shared": true},
+    {"out": "ai/sekkei/index.html", "folder": "02_事業構想・提案資料/AI実装プログラム・クラファン支援（森川提案）", "name": "AGILE_AI実装プログラム_事業設計図_261022", "shared": false},
+    {"out": "kenshu/index.html", "folder": "02_事業構想・提案資料/AI実装プログラム・クラファン支援（森川提案）", "name": "AGILE_研修2本立て_事業設計図_261024", "shared": false},
+    {"out": "nagare/index.html", "folder": "02_事業構想・提案資料/AI実装プログラム・クラファン支援（森川提案）", "name": "AGILE_AI実装研修_流れと線引き_261025", "shared": false},
+    {"out": "kit/index.html", "folder": "02_事業構想・提案資料/AI実装プログラム・クラファン支援（森川提案）", "name": "AGILE_AI実装研修_ご提案の道具箱_261029", "shared": false}
+  ]
+}
