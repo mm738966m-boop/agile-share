@@ -70,9 +70,21 @@
       "shared": true
     },
     {
-      "out": "teireikai/1113/index.html",
+      "out": "teireikai/1113/resume/index.html",
       "folder": "03_議事録・会議資料/2026年11月度分",
       "name": "AGILE定例会レジュメ_20261113",
+      "shared": true
+    },
+    {
+      "out": "teireikai/1113/index.html",
+      "folder": "03_議事録・会議資料/2026年11月度分",
+      "name": "20261113_AGILE定例会まとめ_ページ",
+      "shared": false
+    },
+    {
+      "out": "kensaku/ai-kenshu/index.html",
+      "folder": "03_議事録・会議資料/2026年11月度分",
+      "name": "人材育成・AI研修の検索ボリューム_20261113",
       "shared": true
     }
   ]
