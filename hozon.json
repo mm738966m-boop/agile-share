@@ -98,6 +98,12 @@
       "folder": "03_議事録・会議資料/2026年11月度分",
       "name": "20261119_AGILE定例会まとめ_ページ",
       "shared": false
+    },
+    {
+      "out": "teireikai/1119/kyogyo/index.html",
+      "folder": "01_設立・制度設計",
+      "name": "競業と利益相反の承認_同意書たたき台_261119",
+      "shared": true
     }
   ]
 }
