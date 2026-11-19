@@ -110,6 +110,12 @@
       "folder": "02_事業構想・提案資料/AI実装プログラム・クラファン支援（森川提案）",
       "name": "AGILE_社労士の紹介パートナー_骨子_261119",
       "shared": true
+    },
+    {
+      "out": "sharoushi/list/index.html",
+      "folder": "02_事業構想・提案資料/AI実装プログラム・クラファン支援（森川提案）",
+      "name": "AGILE_社労士の事務所リスト_見本100_261119",
+      "shared": true
     }
   ]
 }
