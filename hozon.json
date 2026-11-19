@@ -88,10 +88,16 @@
       "shared": true
     },
     {
-      "out": "teireikai/1119/index.html",
+      "out": "teireikai/1119/resume/index.html",
       "folder": "03_議事録・会議資料/2026年11月度分",
       "name": "AGILE定例会レジュメ_20261119",
       "shared": true
+    },
+    {
+      "out": "teireikai/1119/index.html",
+      "folder": "03_議事録・会議資料/2026年11月度分",
+      "name": "20261119_AGILE定例会まとめ_ページ",
+      "shared": false
     }
   ]
 }
