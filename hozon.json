@@ -130,9 +130,21 @@
       "shared": true
     },
     {
-      "out": "teireikai/1127/index.html",
+      "out": "teireikai/1127/resume/index.html",
       "folder": "03_議事録・会議資料/2026年11月度分",
       "name": "AGILE定例会レジュメ_20261127",
+      "shared": true
+    },
+    {
+      "out": "sharoushi/kumikata/index.html",
+      "folder": "02_事業構想・提案資料/AI実装プログラム・クラファン支援（森川提案）",
+      "name": "AGILE_社労士さんとの組み方_宮野さんへ_261127",
+      "shared": true
+    },
+    {
+      "out": "sharoushi/teikei/index.html",
+      "folder": "02_事業構想・提案資料/AI実装プログラム・クラファン支援（森川提案）",
+      "name": "AGILE_社労士事務所さまへ_提携のご案内_261127",
       "shared": true
     }
   ]
